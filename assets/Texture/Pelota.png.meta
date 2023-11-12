@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0f8c9ce2-0376-4792-ab08-7914c01753ff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 710,
+  "height": 599,
+  "platformSettings": {},
+  "subMetas": {
+    "Pelota": {
+      "ver": "1.0.4",
+      "uuid": "9a0dae5b-4fc9-4fd7-ac53-1d559e18f48f",
+      "rawTextureUuid": "0f8c9ce2-0376-4792-ab08-7914c01753ff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11.5,
+      "offsetY": 26,
+      "trimX": 298,
+      "trimY": 228,
+      "width": 91,
+      "height": 91,
+      "rawWidth": 710,
+      "rawHeight": 599,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

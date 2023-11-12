@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "deab8137-4b0b-460c-8c2c-9c8b930d3c00",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 710,
+  "height": 599,
+  "platformSettings": {},
+  "subMetas": {
+    "PelotaDorada": {
+      "ver": "1.0.4",
+      "uuid": "e20c82ba-fd27-4df8-ad0d-700afea0e167",
+      "rawTextureUuid": "deab8137-4b0b-460c-8c2c-9c8b930d3c00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11,
+      "offsetY": 26.5,
+      "trimX": 298,
+      "trimY": 227,
+      "width": 92,
+      "height": 92,
+      "rawWidth": 710,
+      "rawHeight": 599,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
