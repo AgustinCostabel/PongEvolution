@@ -36,7 +36,7 @@ export default class NewClass extends cc.Component {
     }
  
     onLoad () {
-        this.label_keys.string = "Dodge the ball Use Arrows to go Up and Down";
+        this.label_keys.string = "DODGE the ball, use ARROWS to go UP and DOWN";
     }
  
     start () {
@@ -72,11 +72,11 @@ export default class NewClass extends cc.Component {
         }
 
         if (this.score == 1){
-            this.label_keys.string = "Use SPACE to Split";
+            this.label_keys.string = "Use SPACE to SPLIT the BAR";
         }
 
         if(this.score == 2){
-            this.label_keys.string = "Hit the golden ball to win the level";
+            this.label_keys.string = "HIT the GOLDEN ball to win the level";
             this.node.getComponent(cc.Sprite).spriteFrame = this.golden_ball;
             this.node.getChildByName("particlesystem").getComponent(cc.ParticleSystem).resetSystem();
         }

@@ -1091,8 +1091,8 @@
     "_dstBlendFactor": 771,
     "_string": "KEYS",
     "_N$string": "KEYS",
-    "_fontSize": 40,
-    "_lineHeight": 40,
+    "_fontSize": 30,
+    "_lineHeight": 30,
     "_enableWrapText": true,
     "_N$file": null,
     "_isSystemFontUsed": true,
@@ -1132,8 +1132,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 108.93,
-      "height": 50.4
+      "width": 81.69,
+      "height": 37.8
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1145,7 +1145,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        -250,
+        -1.218,
         0,
         0,
         0,
