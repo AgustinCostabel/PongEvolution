@@ -281,9 +281,9 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
+      "r": 123,
       "g": 255,
-      "b": 255,
+      "b": 165,
       "a": 255
     },
     "_contentSize": {
@@ -817,7 +817,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 206.74,
+      "width": 135.64,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -869,8 +869,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "Final Level",
-    "_N$string": "Final Level",
+    "_string": "Level 7",
+    "_N$string": "Level 7",
     "_fontSize": 40,
     "_lineHeight": 40,
     "_enableWrapText": true,
